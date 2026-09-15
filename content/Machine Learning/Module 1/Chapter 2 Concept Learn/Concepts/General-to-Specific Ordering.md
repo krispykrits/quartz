@@ -32,4 +32,4 @@ The ordering lets search algorithms move locally through $H$ by generalization a
 - [[Algorithms/FIND-S|FIND-S]]
 - [[Concepts/S and G Boundaries|S and G Boundaries]]
 - [[Algorithms/Candidate Elimination|Candidate Elimination]]
-- [[Mathematics/Ch02 - Mathematics#General-to-specific ordering|Math treatment]]
+- [[Ch02 - Mathematics#General-to-specific ordering|Math treatment]]

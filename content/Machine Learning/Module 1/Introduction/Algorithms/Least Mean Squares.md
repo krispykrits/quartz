@@ -23,7 +23,7 @@ Underprediction causes an upward nudge proportional to feature contribution; ove
 ## Parameters
 $\eta$: small learning rate; $x_0\equiv1$.
 ## Mathematical Treatment
-See [[Mathematics/Ch01 - Mathematics#LMS weight update]] and [[Mathematics/Ch01 - Mathematics#Squared-error objective]].
+See [[Ch01 Mathematics#LMS weight update]] and [[Ch01 Mathematics#Squared-error objective]].
 ## Limitations / Conditions
 The lecture specifically uses LMS with the chosen linear representation; the representation itself limits what functions can be expressed.
 ## Exam-Level Understanding

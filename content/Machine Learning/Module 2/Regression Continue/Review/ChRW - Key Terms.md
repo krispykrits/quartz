@@ -1,0 +1,24 @@
+# Key Terms
+
+- **Bias term $w_0$:** Constant parameter in a linear model.
+- **Hypothesis $h$:** Prediction function.
+- **RMSE:** Square root of average squared prediction error.
+- **MAE:** Average absolute prediction error.
+- **Learning rate $\eta$:** Gradient Descent step-size hyperparameter.
+- **Tolerance $\epsilon$:** Small gradient-norm threshold used to stop Gradient Descent.
+- **Epoch:** A round of $m$ SGD iterations.
+- **Learning schedule:** Function controlling learning rate over iterations.
+- **Polynomial Regression:** Linear model trained on polynomially expanded features.
+- **Learning curve:** Training/validation performance plotted against training-set size.
+- **Bias:** Generalization error associated with wrong model selection/assumptions.
+- **Variance:** Error associated with sensitivity to training-data variations.
+- **Irreducible error:** Error caused by noise in the data.
+- **Regularization:** Penalizing/constraining a model to reduce overfitting.
+- **Ridge:** L2-regularized regression.
+- **Lasso:** L1-regularized regression that tends to create sparse models.
+- **Elastic Net:** Combination of L1 and L2 penalties.
+- **Early stopping:** Stop training at minimum validation error.
+- **Sigmoid:** Function mapping a real score to (0,1).
+- **Decision boundary:** Location where classification changes; in the iris example, about 1.6 cm petal width.
+- **Softmax:** Normalized exponential converting class scores to multiclass probabilities.
+- **Cross entropy:** Cost used by the lecture to train softmax regression.

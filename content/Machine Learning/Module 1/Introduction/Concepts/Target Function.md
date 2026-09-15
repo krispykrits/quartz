@@ -17,4 +17,4 @@ Instead of memorizing “what move should I make?”, learn “how good is this 
 ## Limitation
 The ideal recursive V is correct but not efficiently computable, motivating an approximation V-hat.
 ## Connections
-[[Concepts/Function Approximation]] · [[Mathematics/Ch01 - Mathematics#Exact board-value function]]
+[[Concepts/Function Approximation]] · [[Ch01 Mathematics#Exact board-value function]]

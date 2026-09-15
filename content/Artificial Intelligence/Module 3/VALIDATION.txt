@@ -1,0 +1,19 @@
+Duplicate physical filenames: 0
+Escaped wikilinks: 0
+Parent-relative wikilinks: 0
+Current-relative wikilinks: 0
+Missing wikilink targets: 0
+Broken aliases/targets: 0
+Chapter Home exists: 1
+Main Lecture Note exists: 1
+Mathematics exists: 1
+All standard Review files exist: 1
+Active Recall pair exists: 1
+Active Recall question count: 30
+Active Recall answer count: 30
+Algorithm notes: 12
+Concept notes: 10
+Total markdown files: 33
+
+Missing details: []
+Broken details: []

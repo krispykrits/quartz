@@ -217,7 +217,7 @@ A restricted $H$ may fail to represent the true concept. But using an unrestrict
 > **A completely unbiased learner cannot generalize beyond observed examples.**
 
 ## Chapter Connections
-- [[Mathematics/Ch02 - Mathematics|Mathematics]]
-- [[Review/Ch02 - Concept Map|Concept Map]]
-- [[Review/Ch02 - Exam Cram|Exam Cram]]
-- [[Active Recall/Ch02 - Active Recall|Active Recall]]
+- [[Ch02 - Mathematics|Mathematics]]
+- [[Ch02 Concept Map|Concept Map]]
+- [[Ch02 Exam Cram|Exam Cram]]
+- [[Ch02 - Active Recall|Active Recall]]

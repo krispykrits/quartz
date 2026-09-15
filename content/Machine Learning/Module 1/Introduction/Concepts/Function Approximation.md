@@ -17,4 +17,4 @@ The exact evaluator is too difficult; use a compact scoring rule whose weights c
 ## Key Trade-off
 More restricted representation → easier learning, but less expressive power.
 ## Connections
-[[Concepts/Target Function]] · [[Concepts/Hypothesis Space]] · [[Algorithms/Least Mean Squares]] · [[Mathematics/Ch01 - Mathematics#Linear approximation of board value]]
+[[Concepts/Target Function]] · [[Concepts/Hypothesis Space]] · [[Algorithms/Least Mean Squares]] · [[Ch01 Mathematics#Linear approximation of board value]]

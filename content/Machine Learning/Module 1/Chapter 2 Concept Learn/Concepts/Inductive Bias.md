@@ -56,4 +56,4 @@ The inductive bias is the minimal set of assumptions $B$ that allows deductive i
 - [[Concepts/Inductive Learning Hypothesis|Inductive Learning Hypothesis]]
 - [[Algorithms/FIND-S|FIND-S]]
 - [[Algorithms/Candidate Elimination|Candidate Elimination]]
-- [[Mathematics/Ch02 - Mathematics#Inductive bias entailment|Math treatment]]
+- [[Ch02 - Mathematics#Inductive bias entailment|Math treatment]]

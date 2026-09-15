@@ -1,0 +1,25 @@
+# Key Terms
+- **Testing:** evaluating software by observing its execution.
+- **Test failure:** execution of a test that results in a software failure.
+- **Debugging:** finding a fault given a failure.
+- **RIPR:** Reachability, Infection, Propagation, Revealability.
+- **Reachability:** test reaches the faulty location.
+- **Infection:** faulty execution creates incorrect program state.
+- **Propagation:** incorrect state affects final program state/output.
+- **Revealability:** tester observes the incorrect portion.
+- **Test engineer:** IT professional responsible for one or more technical testing activities.
+- **Acceptance testing:** assesses software against requirements/users' needs.
+- **System testing:** assesses software against architecture/overall behavior.
+- **Integration testing:** assesses subsystem interfaces/design.
+- **Module testing:** assesses software against detailed design.
+- **Unit testing:** assesses implementation units.
+- **Regression testing:** retesting after changes to ensure prior functionality remains.
+- **Coverage criterion:** rule(s) that yield test requirements.
+- **Test requirement:** artifact element a test must satisfy/cover.
+- **Test design:** creating input values that effectively test software.
+- **Test automation:** embedding test values into executable scripts.
+- **Test execution:** running tests and recording results.
+- **Test evaluation:** evaluating test results and reporting them.
+- **Criteria-based test design:** designs tests to satisfy engineering goals such as coverage criteria.
+- **Human-based test design:** designs tests using domain, testing, UI, and user-behavior knowledge.
+- **MDTD:** abstraction-centered process that derives tests from mathematical structures representing software artifacts.

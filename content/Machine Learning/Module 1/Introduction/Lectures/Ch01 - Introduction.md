@@ -54,13 +54,13 @@ See [[Concepts/Well-Posed Learning Problem]]. Slide 8 applies the framework to c
 See [[Concepts/Training Experience]]. The selected design uses self-play: unlimited and cheap, but potentially mismatched with the eventual distribution of human/expert opponents.
 
 ### Choice 2 — Target function
-Two formulations are shown: `ChooseMove` maps board states to moves, whereas `V` maps board states to real-valued evaluations. The lecture chooses V because it is easier to learn. See [[Concepts/Target Function]] and [[Mathematics/Ch01 - Mathematics#Exact board-value function]].
+Two formulations are shown: `ChooseMove` maps board states to moves, whereas `V` maps board states to real-valued evaluations. The lecture chooses V because it is easier to learn. See [[Concepts/Target Function]] and [[Ch01 Mathematics#Exact board-value function]].
 
 ### Choice 3 — Representation
-The approximation uses six board features and seven weights including the bias. See [[Concepts/Function Approximation]] and [[Mathematics/Ch01 - Mathematics#Linear approximation of board value]].
+The approximation uses six board features and seven weights including the bias. See [[Concepts/Function Approximation]] and [[Ch01 Mathematics#Linear approximation of board value]].
 
 ### Choice 4 — Learning algorithm
-Intermediate board values are not directly observed. The training-value rule bootstraps from the successor board's current estimate; LMS then adjusts weights to reduce squared error. See [[Algorithms/Least Mean Squares]] and [[Mathematics/Ch01 - Mathematics]].
+Intermediate board values are not directly observed. The training-value rule bootstraps from the successor board's current estimate; LMS then adjusts weights to reduce squared error. See [[Algorithms/Least Mean Squares]] and [[Ch01 Mathematics]].
 
 ### Final architecture — slide 17
 The diagram forms a learning loop:
